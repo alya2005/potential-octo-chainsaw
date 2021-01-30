@@ -1,0 +1,30 @@
+body {
+  background-color: #6f9eaf;
+  font-family: sans-serif;
+}
+p {
+  color:green;
+  font-style: italic;
+}
+
+table {
+  margin: 40px;
+  width:50%;
+  border-style: dotted solid;
+  background-color: #839b97;
+
+
+}
+
+tr{
+  height: 50px;
+  background-color: #c1a1d3;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: green;
+  border-width: 20px;
+  width: 30%;
+}
